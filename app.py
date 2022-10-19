@@ -12,7 +12,6 @@ from flask import Flask, jsonify, request, Response, g, make_response
 from flask.templating import render_template
 
 app = Flask(__name__)
-app.debug = True
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = torch.load("ResNet.pt", map_location=device)
