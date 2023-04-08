@@ -1,45 +1,55 @@
-#README
+Minbilens
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sungbinlee/minbilens/main/static/images/logo.png" alt="Minbilens Logo" width="200" height="200">
+</p>
+This project uses Convolutional Neural Network to identify and classify bird species in Mindanao.
 
-This is the README file for the project "Identification and Classification of Mindanao Bird Species using Convolutional Neural Network". This project involves using a Convolutional Neural Network (CNN) to identify and classify bird species found in Mindanao.
+Table of Contents
+Introduction
+Roles
+Demo Videos
+Git Repo
+Colab
+Research Paper
+Demo Videos
+Getting Started
+Contributing
+License
+Introduction
+This repository contains the code for the Minbilens project, which uses a ResNet model to classify bird species in Mindanao, Philippines. The project also includes a backend for deploying the model, as well as a web application that allows users to upload images and get predictions for the bird species.
 
-#Overview
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sungbinlee/minbilens/main/static/images/sample.png" alt="Minbilens Sample Image" width="600" height="400">
+</p>
+Roles
+ResNet Model development: Sungbin Lee
+Backend development and deployment: Sungbin Lee
+Demo Videos
+Desktop demo
+Mobile demo
+Git Repo
+The code for the Minbilens project can be found on GitHub.
 
-This project uses a CNN to classify different species of birds found in Mindanao. The ResNet model was used to classify the birds, and the model was trained using a dataset of bird images. The project also includes a backend for deployment.
+Colab
+The Jupyter Notebook for the project can be found on Google Colab.
 
-#Role
+Research Paper
+The research paper for the project can be found on Google Drive.
 
-The following roles were carried out in this project:
+Getting Started
+To run the Minbilens project locally, follow these steps:
 
-- ResNet model development
-- Backend development and deployment
+Clone the repository: git clone https://github.com/sungbinlee/minbilens.git
+Install the required packages: pip install -r requirements.txt
+Start the server: python app.py
+Navigate to http://localhost:5000/ in your browser to use the web application.
+Contributing
+If you would like to contribute to the Minbilens project, please follow these steps:
 
-#Demo Videos
-
-Demo videos of the project can be found at the following link:
-
-http://34.22.70.195:5000/
-
-#Git Repo
-
-The Git repository for the project can be found at the following link:
-
-https://github.com/sungbinlee/minbilens
-
-#Colab
-
-The Colab for the project can be found at the following link:
-
-https://colab.research.google.com/drive/1yLRHt1m4y9a5k09ywmahm1_2XZHFnuRB?usp=sharing
-
-#Paper
-
-The paper for the project can be found at the following link:
-
-https://drive.google.com/file/d/1nRs9SZAh7QW1E8Bshxk3j1OKexPZN8g-/view?usp=sharing
-
-#Demo Videos
-
-Demo videos of the project can be found at the following links:
-
-Desktop: https://youtu.be/kBZsw_XTMT0
-Mobile: https://youtube.com/shorts/A419P4SPeDw?feature=share
+Fork the repository
+Create a new branch: git checkout -b my-new-feature
+Make your changes and commit them: git commit -m 'Add some feature'
+Push to the branch: git push origin my-new-feature
+Submit a pull request
+License
+The Minbilens project is licensed under the MIT License.
