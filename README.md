@@ -10,6 +10,9 @@ Minbilens is a project that uses convolutional neural networks (CNNs) to identif
 # Research Paper
 For more information about the Minbilens project, check out our research paper: https://drive.google.com/file/d/1nRs9SZAh7QW1E8Bshxk3j1OKexPZN8g-/view?usp=sharing
 
+# Demo Website
+http://34.22.70.195:5000/
+
 # Demo Videos
 Check out our demo videos to see Minbilens in action:
 
