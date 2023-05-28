@@ -4,7 +4,7 @@
 Minbilens is a project that uses convolutional neural networks (CNNs) to identify and classify bird species found in the Mindanao region of the Philippines. This repository contains the code and data used in the project, as well as links to demo videos and a research paper.
 
 # My Role
-- ResNet model development
+- ResNet50 model development
 - Backend development and deployment
 
 # Research Paper
