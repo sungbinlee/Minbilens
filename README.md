@@ -8,7 +8,7 @@ Minbilens is a project that uses convolutional neural networks (CNNs) to identif
 - Backend development and deployment
 
 # Research Paper
-For more information about the Minbilens project, check out our research paper: https://drive.google.com/file/d/1nRs9SZAh7QW1E8Bshxk3j1OKexPZN8g-/view?usp=sharing
+For more information about the Minbilens project, check out our research paper: https://www.academia.edu/109030915/Identifying_and_Classifying_Mindanao_Bird_Species_using_Convolutional_Neural_Network 
 
 # Demo Website
 ~~http://34.22.70.195:5000/~~
